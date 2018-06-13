@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="spacing_mid">12dp</dimen>
+    <dimen name="spacingMid">12dp</dimen>
+    <dimen name="toolbarElevation">4dp</dimen>
+    <dimen name="toolbarHeight">56dp</dimen>
 </resources>
