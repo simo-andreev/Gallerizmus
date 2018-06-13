@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gallerizmus</string>
+    <string name="image_dir_access_denied_title">Access denied!</string>
+    <string name="image_dir_access_denied_message">The application needs access to the `Pictures` directory to funcction properly.</string>
 </resources>
